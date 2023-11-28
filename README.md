@@ -1,9 +1,9 @@
 # SANOFI Magne ZiS CENEO, 230322-SF-23. New packshots 2023-11-07
 <!-- please enter project number recived from PM -->
 
-## LIVE SITE LINK (generic)
+## LIVE SITE LINK (CENEO)
 <!-- please enter link to site preview here -->
-[Live on Netlify](https://magne-zis-new.netlify.app/)
+[Live on Netlify](https://magne-zis-new-ceneo.netlify.app/)
 
 ## PROJECT PREVIEW
 <!-- ![Design preview for the project](./link) -->
