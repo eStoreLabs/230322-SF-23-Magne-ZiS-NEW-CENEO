@@ -891,6 +891,9 @@ padding-inline: 10px;
   #es-magne.es-magne .es-cross__btn--mobile {
     display: none;
   }
+  #es-magne.es-magne .es-cross details {
+    display: none;
+  }
   #es-magne.es-magne .es-cross__desktop {
     display: block;
     visibility: visible;
